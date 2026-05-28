@@ -1,0 +1,14 @@
+flask
+flask-cors
+ultralytics
+opencv-python
+pymongo
+pillow
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+aiofiles
+python-dotenv
